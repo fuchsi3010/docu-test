@@ -1,4 +1,4 @@
-Hello, world!
+Hello, Daniel!
 =============
 
 Nice one! You're up and running. This site was generated from the contents of your `docs` folder. It
