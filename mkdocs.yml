@@ -1,5 +1,5 @@
 site_name: docu test
 site_url: https://fuchsi3010.github.io/docu-test/
 nav:
-- Home: page.md
+- Home: index.md
 - About: examples.md
