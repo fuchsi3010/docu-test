@@ -25,7 +25,6 @@ jobs:
   deploy:
     environment:
       name: github-pages
-      site_url: https://fuchsi3010.github.io/docu-test/
       url: ${{ steps.deployment.outputs.page_url }}
     runs-on: ubuntu-latest
     steps:
