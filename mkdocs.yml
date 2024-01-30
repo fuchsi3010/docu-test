@@ -1,5 +1,10 @@
 site_name: docu test
 site_url: https://fuchsi3010.github.io/docu-test/
-nav:
-- Home: index.md
-- About: examples.md
+theme:
+  name: material
+  palette:
+    scheme: slate
+    primary: orange
+markdown_extensions:
+- pymdownx.tasklist:
+    custom_checkbox: true
